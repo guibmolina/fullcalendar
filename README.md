@@ -8,7 +8,7 @@ Agenda virtual
 
 ### Tech
 No projeto foram usadas as seguintes ferramentas:
- - Laravel(v. 6.2)
+ - Laravel(v.6.2)
  - JavaScript
  - Bootstrap
  - MySQL
